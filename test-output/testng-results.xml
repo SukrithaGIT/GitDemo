@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="57" started-at="2020-05-17T01:34:41 IST" finished-at="2020-05-17T01:34:41 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="57" started-at="2020-05-17T01:34:41 IST" finished-at="2020-05-17T01:34:41 IST">
+      <class name="qaclickacademy.Mavenjava.SeleniumJavaTest">
+        <test-method status="PASS" signature="SelTest1()[pri:0, instance:qaclickacademy.Mavenjava.SeleniumJavaTest@6ee52dcd]" name="SelTest1" duration-ms="7" started-at="2020-05-17T01:34:41 IST" finished-at="2020-05-17T01:34:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelTest1 -->
+        <test-method status="PASS" signature="SelTest2()[pri:0, instance:qaclickacademy.Mavenjava.SeleniumJavaTest@6ee52dcd]" name="SelTest2" duration-ms="1" started-at="2020-05-17T01:34:41 IST" finished-at="2020-05-17T01:34:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelTest2 -->
+      </class> <!-- qaclickacademy.Mavenjava.SeleniumJavaTest -->
+      <class name="qaclickacademy.Mavenjava.AppiumTest">
+        <test-method status="PASS" signature="AppiumTest1()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@4493d195]" name="AppiumTest1" duration-ms="1" started-at="2020-05-17T01:34:41 IST" finished-at="2020-05-17T01:34:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTest1 -->
+        <test-method status="PASS" signature="AppiumTest2()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@4493d195]" name="AppiumTest2" duration-ms="1" started-at="2020-05-17T01:34:41 IST" finished-at="2020-05-17T01:34:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTest2 -->
+      </class> <!-- qaclickacademy.Mavenjava.AppiumTest -->
+      <class name="qaclickacademy.Mavenjava.RestapiTest">
+        <test-method status="PASS" signature="RestapiTest1()[pri:0, instance:qaclickacademy.Mavenjava.RestapiTest@2781e022]" name="RestapiTest1" duration-ms="1" started-at="2020-05-17T01:34:41 IST" finished-at="2020-05-17T01:34:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestapiTest1 -->
+        <test-method status="PASS" signature="RestapiTest2()[pri:0, instance:qaclickacademy.Mavenjava.RestapiTest@2781e022]" name="RestapiTest2" duration-ms="1" started-at="2020-05-17T01:34:41 IST" finished-at="2020-05-17T01:34:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestapiTest2 -->
+      </class> <!-- qaclickacademy.Mavenjava.RestapiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
